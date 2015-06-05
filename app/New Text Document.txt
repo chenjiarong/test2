@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿
 sd
 
@@ -13,3 +14,9 @@ sd
 sdsygcysgcfygy
 >>>>>>> parent of 6c06ec8... sd
 >>>>>>> parent of 85352d8... 555
+=======
+﻿aaaaaaaaaaaaaaaa
+=======
+sdsygcysgcfygy
+>>>>>>> parent of 6c06ec8... sd
+>>>>>>> parent of 2b6d140... 更新一些文件
