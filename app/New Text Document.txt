@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-﻿gvhyjgvyftytfytfvgyvjh
-=======
+﻿
 sd
->>>>>>> parent of 5d6a4c2... 写多了一点
+
