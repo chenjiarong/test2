@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿
 sd
 
@@ -26,3 +27,6 @@ sdsygcysgcfygy
 >>>>>>> parent of 2b6d140... 更新一些文件
 =======
 >>>>>>> parent of 2b6d140... 更新一些文件
+=======
+sd
+>>>>>>> parent of 5d6a4c2... 写多了一点
